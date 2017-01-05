@@ -71,6 +71,7 @@ public class MainActivity extends AppCompatActivity {
                         Log.d("PuttExtras", "Data Berhasil Di putExtras");
                         //putExtra
                         subDuaActivity.putExtra(Sub2Activity.keyExtras, inputanUser);
+
                     }catch (Exception e){
 
                         Log.d("PutExtras", "Terjadi Kesalahan Saat putExtras = " + e.getMessage());
