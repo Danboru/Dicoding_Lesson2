@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sample_Intent</string>
+    <string name="sub1Text">Ini adalah Activity Pertama</string>
+    <string name="btn_satu">Ke Activity Satu</string>
+    <string name="btn_dua">Ke Activity Dua</string>
+    <string name="btn_dial">Ke Activity Dial</string>
+
+    <string name="txt_text">View Some Text</string>
+
+</resources>
